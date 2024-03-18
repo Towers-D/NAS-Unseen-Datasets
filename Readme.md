@@ -44,10 +44,14 @@ The dataset can be found at [data.ncl.ac.uk/articles/dataset/CIFARTile_Dataset/2
 
 Gutenberg is encoded similarly to Language, however, instead of representing words from different languages, Gutenberg encodeds three words extracted from public domain texts from Project Gutenberg (Note. these works are in the public domain in the US, please check your countries copyright law, before downloading).
 
+In the example above, a three word string was selected from one of Shakespeare's works. The words that had less than six letters were padded with spaces, then we encoded it onto image similarly to Language.
+
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/Gutenberg_Dataset/24574753](https://data.ncl.ac.uk/articles/dataset/Gutenberg_Dataset/24574753)
 
 ## GeoClassing
 <img src="./Images/GeoClassing_single.svg" alt="Example of GeoClassing" width="500">
+
+GeoClassing was generated using the BigEarthNet dataset, using images from the European Space Agency Sentinel satellite. This dataset contains images of european countries. We randomly selected images from their patches and labelled them according to the country the patch belongs to. The available countries (and thus labels) are: Austria, Belgium, Finland, Ireland, Kosovo, Lithuania, Luxembourg, Portugal, Serbia, and Switzerland. The example image above was taken over Portugal, and has that as a label.
 
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256](https://data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256)
 
