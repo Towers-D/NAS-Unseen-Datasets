@@ -57,7 +57,7 @@ The dataset can be found at [data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset
 Code Coming Soon.
 
 ## Chesseract
-<img src="./Images/Chesseract_3d-2d.svg" alt="Example of Chesseract represented in 2D" width="500"> <img src="./Images/Chesseract_3d.svg" alt="The same example represented in 3D" width="500">
+<img src="./Images/Chesseract_3d-2d.svg" alt="Example of Chesseract represented in 2D" height="390"> <img src="./Images/Chesseract_3d.svg" alt="The same example represented in 3D" height="390">
 
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/Chesseract_Dataset/24118743](https://data.ncl.ac.uk/articles/dataset/Chesseract_Dataset/24118743)
 
