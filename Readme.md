@@ -52,7 +52,7 @@ The dataset can be found at [data.ncl.ac.uk/articles/dataset/Gutenberg_Dataset/2
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256](https://data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256)
 
 ## Isabella
-<img src="./Images/Isabella_single.svg" alt="Example of Isabella" width="500">
+<img src="./Images/Isabella_single.svg" alt="Example of Isabella" height="500">
 
 Code Coming Soon.
 
