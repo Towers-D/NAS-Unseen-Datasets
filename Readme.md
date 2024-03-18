@@ -47,16 +47,17 @@ Gutenberg is encoded similarly to Language, however, instead of representing wor
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/Gutenberg_Dataset/24574753](https://data.ncl.ac.uk/articles/dataset/Gutenberg_Dataset/24574753)
 
 ## GeoClassing
-![Example of GeoClassing](./Images/GeoClassing_single.svg)
+<img src="./Images/GeoClassing_single.svg" alt="Example of GeoClassing" width="500">
 
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256](https://data.ncl.ac.uk/articles/dataset/GeoClassing_Dataset/24050256)
 
 ## Isabella
-![Example of Isabella](./Images/Isabella_single.svg)
+<img src="./Images/Isabella_single.svg" alt="Example of Isabella" width="500">
+
 Code Coming Soon.
 
 ## Chesseract
-![Example of Chesseract represented in 2D](./Images/Chesseract_3d-2d.svg) ![The same example represented in 3D](./Images/Chesseract_3d.svg)
+<img src="./Images/Chesseract_3d-2d.svg" alt="Example of Chesseract represented in 2D" width="500"> <img src="./Images/Chesseract_3d.svg" alt="The same example represented in 3D" width="500">
 
 The dataset can be found at [data.ncl.ac.uk/articles/dataset/Chesseract_Dataset/24118743](https://data.ncl.ac.uk/articles/dataset/Chesseract_Dataset/24118743)
 
