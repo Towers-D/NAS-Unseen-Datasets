@@ -101,7 +101,7 @@ Here we show tables that include results on our datasets. We have generated resu
 | MultNIST    |   96.68% | 98.10% |      97.17% |       96.55% |        39.76% |
 | CIFARTile   |   92.28% | 81.08% |      91.47% |       90.74% |        24.76% |
 | Gutenberg   |   49.12% | 46.62% |      48.57% |       47.72% |        29.00% |
-| Isabella    |   65.77% | 64.53% |          -% |       66.35% |        58.53% |
+| Isabella    |   65.77% | 64.53% |      64.08% |       66.35% |        58.53% |
 | GeoClassing |   94.61% | 96.03% |      95.66% |       95.54% |        63.56% |
 | Chesseract  |   57.20% | 58.24% |      60.76% |       59.16% |        68.83% |
 
