@@ -111,7 +111,26 @@ Below you can see the results of the top five finalists of the 2023 version of t
 
 ### 2023 Top five finalists
 
+| Ranking | GeoClassing | Isabella | Chesseract |
+|---------|-------------|----------|------------|
+| Rank 1  |      92.37% |   59.97% |     58.20% |
+| Rank 2  |      89.62% |   60.14% |     58.10% |
+| Rank 3  |      93.34% |   46.87% |     59.31% |
+| Rank 4  |      90.69% |   44.93% |     58.74% |
+| Rank 5  |      87.81% |   43.92% |     63.05% |
+
 ### Best Competition Results
+
+| Dataset     | Best Score |
+|-------------|------------|
+| AddNIST     |     95.06% |
+| Language    |     89.71% |
+| MultNIST    |     95.45% |
+| CIFARTile   |     73.08% |
+| Gutenberg   |     50.85% |
+| Isabella    |     61.42% |
+| GeoClassing |     96.08% |
+| Chesseract  |     62.98% |
 
 # Reference
 Coming Soon
