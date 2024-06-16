@@ -3,7 +3,7 @@ This repo contains links to the eight datasets we generated for use in the NAS U
 
 For a more detailed description of these datasets, please refer to out paper, accepcted at CVPR 2024:
 
-Link Coming soon.
+Our paper can be found [here](https://openaccess.thecvf.com/content/CVPR2024/html/Geada_Insights_from_the_Use_of_Previously_Unseen_Neural_Architecture_Search_CVPR_2024_paper.html).
 
 # Datasets
 Below we will briefly describe and link to each dataset.
@@ -133,7 +133,16 @@ Below you can see the results of the top five finalists of the 2023 version of t
 | Chesseract  |     62.98% |
 
 # Reference
-Coming Soon
-
+Please use the following BibTex when citing:
+```
+@InProceedings{Geada_2024_CVPR,
+    author    = {Geada, Rob and Towers, David and Forshaw, Matthew and Atapour-Abarghouei, Amir and McGough, A. Stephen},
+    title     = {Insights from the Use of Previously Unseen Neural Architecture Search Datasets},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {22541-22550}
+}
+```
 # License
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Towers-D/NAS-Unseen-Datasets">NAS Unseen Datasets</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="http://davidtowers.uk">David Towers, Rob Geada, Amir Atapour-Abarghouei, Stephen McGough</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
